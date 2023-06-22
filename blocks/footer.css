@@ -65,6 +65,11 @@
   color: #fff;
 }
 
+.footer__social-link:hover {
+  color: #c1c1c1;
+  transition: 1s ease-in-out;
+}
+
 .footer__copyright {
   font-family: "Inter";
   font-style: normal;
