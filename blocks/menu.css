@@ -13,7 +13,7 @@
   justify-content: center;
   max-width: 780px;
   margin: auto;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -27,7 +27,7 @@
   margin: auto;
   margin-top: 24px;
   max-width: 780px;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -41,39 +41,4 @@
   margin-top: 100px;
   flex-wrap: wrap;
   justify-content: center;
-}
-
-.card {
-  width: 540px;
-}
-
-.card__title {
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-}
-
-.list {
-  list-style: none;
-  padding-left: 0;
-  margin-bottom: 0;
-}
-
-.card__list-item {
-  margin-top: 16px;
-  display: flex;
-  justify-content: space-between;
-  font-family: "Noto Serif";
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
-}
-
-.card__list-divider {
-  display: flex;
-  border-bottom: 1px solid;
-  flex-grow: 1;
 }
