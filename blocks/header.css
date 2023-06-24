@@ -1,6 +1,8 @@
 .header {
   display: flex;
   flex-direction: column;
+  position: relative;
+  z-index: 1;
   height: 100vh;
   min-height: 720px;
   max-height: 800px;
@@ -49,6 +51,7 @@
   top: 124px;
   width: 646px;
   height: 568px;
+  z-index: -1;
 }
 
 .header__footer {
