@@ -9,6 +9,7 @@
 }
 
 .nav__links {
+  margin: 0;
   display: flex;
   justify-items: flex-end;
   color: #000;

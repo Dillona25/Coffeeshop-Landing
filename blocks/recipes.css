@@ -3,6 +3,7 @@
   background-color: #0a2750;
   background-position: center;
   background-repeat: no-repeat;
+  padding-bottom: 215px;
   background-size: cover;
 }
 
@@ -34,7 +35,7 @@
   display: flex;
   justify-content: center;
   column-gap: 40px;
-  margin: 80px auto 215px auto;
+  margin: 80px auto auto;
 }
 
 .recipes__iframe {

@@ -4,6 +4,7 @@
 
 .form__fieldset {
   display: flex;
+  margin: 0;
   justify-content: center;
   flex-direction: column;
   border-style: none;
