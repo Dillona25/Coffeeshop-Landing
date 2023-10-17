@@ -1,8 +1,11 @@
-# Practicum Coffee Shop
+# Coffee Shop
 
-This is the second project of the Web Development program at Practicum. It was created using HTML and CSS, based on the design brief.
+In my quest to master HTML and CSS as I embark into the world of software development I have created a landing page for a fictional coffeeshop. The page features and Hero section, a recepies section with videos, a menu, and a form that allows users to reserve a table. It also features a contact section which features an apealing little animation.
+<br />
+<br />
+I have many ways Id like to improve this project especially now as I have become proficient in JavaScript and React. I firstly want to make the website fully responsive. As of right now it is only visually appealing at 1280px. I also want to add a modal that opens when the user wants to contact the shop directly. After this, there isnt much more I can do with a fictional coffeeshop besides adding a backend in the future that allows users to log in to an account of their own, and a server that collects data from the form!
 
-## Project features
+# Project features ❕❕
 
 - Semantic HTML5
 - Flexbox
@@ -11,6 +14,15 @@ This is the second project of the Web Development program at Practicum. It was c
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
+# Project images 📸
 
-This project has many different features to it (listed above). The first page has a working nav bar that will direct you to the corresponding section of the landing page. In the future I would like to add code to these nav bars that will make them pop a little more when a user hovers over them. We then have the landing page title and description which used many different style features as well as flex properties. This goes with the image as well! I do think different fonts could make the landing page flow better. Secondly we have the recipes page. This page contains to API embedded videos that cover recipes we think you will like if your a vistor of this page. Id like to implemtent more of a shadow to each video element to make it look neater. The 3rd pagte of this project is an interactive reservation form! I am super happy with how this form turned out and I wouldnt make much changes to it. It flows very nicely with the landing page. If I did want to improve one aspect of it, that would be having the typed data from the user be a black font and not the same color as the placeholder. When the site is loaded on specific monitors (https://dillona25.github.io/se_project_coffeeshop/) it doesnt look great. The Site was made at 1440, nonetheless I would love to make it a responsive site, but havent quite learned that yet. When I do, I plan on coming back to it and making those chnages with media querys and turning it into a fully responsive site! 
+<div>
+<img align="center" alt="Image of project" src="./images/Coffeeshop 3.jpeg">
+<img align="center" alt="Image of project" src="./images/Coffeeshop 2.jpeg">
+<img align="center" alt="Image of project" src="./images/Coffeeshop 1.jpeg">
+</div>
+
+# The live page 🚀
+
+Hosted with Github pages, you can check out the page here:
+https://dillona25.github.io/se_project_coffeeshop/
