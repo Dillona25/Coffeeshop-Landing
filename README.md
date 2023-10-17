@@ -18,7 +18,9 @@ I have many ways Id like to improve this project especially now as I have become
 
 <div>
 <img align="center" alt="Image of project" src="./images/Coffeeshop 3.jpeg">
+<br />
 <img align="center" alt="Image of project" src="./images/Coffeeshop 2.jpeg">
+<br />
 <img align="center" alt="Image of project" src="./images/Coffeeshop 1.jpeg">
 </div>
 
